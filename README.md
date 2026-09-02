@@ -66,7 +66,7 @@ The project follows a **Medallion Architecture**:
 
 **CRM & ERP CSV Files → Bronze → Silver → Gold**
 
-![Data Warehouse Architecture](images/data_architecture.png)
+![Data Warehouse Architecture](docs/data_architecture.png)
 
 Each layer has a specific responsibility.
 
@@ -150,7 +150,7 @@ I created a **Star Schema** consisting of:
 - `gold.dim_customer`
 - `gold.dim_product`
 
-![Star Schema](images/data_model_(star_schema).png)
+![Star Schema](docs/data_model_(star_schema).png)
 
 ### Why a Star Schema?
 
