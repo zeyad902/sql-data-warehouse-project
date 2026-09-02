@@ -472,26 +472,30 @@ SQL-Data-Warehouse/
 ## Technologies
 
 <p align="left">
+
   <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" width="45" height="45"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   </a>
+
   <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference">
-    <img src="https://skillicons.dev/icons?i=sql" alt="T-SQL" width="45" height="45"/>
+    <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL"/>
   </a>
+
   <a href="https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms">
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="SSMS" width="45" height="45"/>
+    <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSMS"/>
   </a>
+
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
+
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
 </p>
 
 **Core Concepts:** Data Warehousing · ETL · Dimensional Modeling
-
-## Author
 
 ## Author
 
