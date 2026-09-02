@@ -1,4 +1,4 @@
-# SQL Server Data Warehouse
+# SQL Server Data Warehouse 🏠
 
 ## Project Overview
 
